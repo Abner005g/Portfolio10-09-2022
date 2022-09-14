@@ -58,7 +58,7 @@ li:hover{
 #mobile{
     display: none;
 }
-@media(max-width :1200px ){
+@media(max-width :720px ){
     #mobile{
         display: flex;
         padding: .5rem 1rem;
